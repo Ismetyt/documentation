@@ -18,7 +18,7 @@
   "author": "Stephen Fluin",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^2.0.0",
     "@chainlink/contracts": "^0.4.1",
     "@metamask/detect-provider": "^1.2.0",
     "@metamask/providers": "^8.1.1",
