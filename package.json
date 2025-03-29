@@ -18,7 +18,7 @@
   "author": "Stephen Fluin",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^2.0.0",
     "@chainlink/contracts": "^0.4.1",
     "@metamask/detect-provider": "^1.2.0",
     "@metamask/providers": "^8.1.1",
@@ -35,7 +35,7 @@
     "eleventy-plugin-youtube-embed": "^1.7.0",
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.6.6",
-    "firebase-tools": "^10.9.2",
+    "firebase-tools": "^13.28.0",
     "graphql": "^16.5.0",
     "hardhat": "^2.9.5",
     "html-minifier": "^4.0.0",
